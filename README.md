@@ -1,3 +1,3 @@
 # Hangman_Game
 Author : lakshit
-!["Output"](\image.png)
+<img src="img/image.png">
